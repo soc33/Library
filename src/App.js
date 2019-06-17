@@ -7,7 +7,7 @@ class App extends Component {
       <div className="container">
         <div className="jumbotron">
           <h2 className="display-4">
-            Welcome to the library
+            Welcome to the Kids Library
         </h2>
         <hr className="my-4" />
         <a className="btn btn-primary btn-lg" href="#" role="button">Check the Library</a>    
