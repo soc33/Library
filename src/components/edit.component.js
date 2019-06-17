@@ -5,7 +5,8 @@ export default class Edit extends Component {
     return (
       <div>
         <h1>Welcome to editing a book page</h1>
-      </div>
+      <h3>Make sure every part is correct before pressing save</h3>
+</div>
     )
   }
 }
